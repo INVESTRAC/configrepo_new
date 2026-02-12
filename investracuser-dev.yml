@@ -16,5 +16,5 @@ spring.security.user.name=admin
 spring.datasource.password=root
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 spring.datasource.username=root
-spring.datasource.url=jdbc:mysql://34.93.252.170:3306/investrac
+spring.datasource.url=jdbc:mysql://localhost:3306/nag
 server.port=7071
